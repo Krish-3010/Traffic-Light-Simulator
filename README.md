@@ -39,8 +39,13 @@ A 5-bit counter cycles through 32 states, and logic gates combine decoder output
 
 ---
 
-## 🎬 Demo Video
-Watch the working simulation of the traffic light system:
+## 🎬 Preview
+![Traffic Light Demo](Videos/Preview.gif)
+
+---
+
+## 🎬 Video 
+Watch the full working simulation of the traffic light system:
 
 [▶️ Click to View Demo](Videos/traffic_light_demo.mp4)
 
